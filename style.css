@@ -1,0 +1,39 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #bbd7fb;
+}
+
+.contenedor {
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 20px;
+  text-align: center;
+  background-color: #5b80fa;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 1rem;
+}
+
+h1 {
+  color: #333333;
+}
+
+input[type="text"] {
+  padding: 10px;
+  font-size: 16px;
+  width: 70%;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4caf50;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+  border-radius: 1rem;
+}
+
+#datosClima {
+  margin-top: 20px;
+  font-size: 18px;
+}
